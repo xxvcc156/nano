@@ -1,0 +1,1 @@
+ros2 launch open_mainpulator_x_controller open_mainpulator_x_controller.launch.py
